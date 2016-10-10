@@ -22,3 +22,8 @@ DİYARBAKIR KIRŞEHİR ZONGULDAK
 AĞRI ERZİNCAN MUĞLA
  ```
 Please click the [invitation link](https://classroom.github.com/assignment-invitations/7f3bf3c9be93a67be24fedd0e049971a) and follow the instructions to get started with the submission system.
+
+Example of triangle inequality violation [1]: 
+![Example of triangle inequality violation](https://github.com/AnadoluUniversityCeng/Triangle-Inequality-Violation/blob/master/tiv.png?raw=true "Example of triangle inequality violation")
+
+[1] Cristian Lumezanu, Randy Baden, Neil Spring, and Bobby Bhattacharjee. 2009. Triangle Inequality and Routing Policy Violations in the Internet. In Proceedings of the 10th International Conference on Passive and Active Network Measurement (PAM '09)
